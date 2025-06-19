@@ -6,3 +6,10 @@ body {
     color: blue;
     border: 1px solid #ccc;
 }
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
